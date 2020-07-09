@@ -1,34 +1,34 @@
 # U-FO
-»ù±¾Íæ·¨£º
-×ó¼ü·¢ÉäÆÕÍ¨×Óµ¯£¨°´×Å²»¶¯¼´¿É£©
-ÓÒ¼ü·¢Éä×·×Ù×Óµ¯£¨°´×Å²»¶¯¼´¿É£©
-ÖĞ¼ü£¨¹öÂÖ£©·¢Éä¼¤¹â£¨ĞîÁ¦Ê±¼ä¾Ã£¬Ã¿´Î·¢ÉäÖ®ºó£¬ĞèÒªÌ§ÆğÊÖÖ¸ÖØĞÂ°´ÏÂ²Å¿ÉÖØĞÂĞîÁ¦£©
-
-¸ß¼¶Íæ·¨£¨×÷±×£¿£©£º
-°´ÏÂ1£¬Ìø×ªÖÁµôÂä¹Ø¿¨ºó°ë¶Î
-°´ÏÂ2£¬Ìø×ªÖÁ×·×ÙµĞÈË¹Ø¿¨
-°´ÏÂ3£¬Ìø×ªÖÁÕı³£Á÷³Ìboss¹Ø¿¨
-°´ÏÂ6£¬ÌôÕ½ÕæÕıµÄBOSS£¨ÏàĞÅÎÒÄã´ò²»¹ıµÄ£©
-°´ÏÂ0£¬ÆÕÍ¨×Óµ¯ÉäËÙ»áÔö¼Ó£¬¼¤¹âÒ²»á±äµÃ²»ÓÃĞîÁ¦£¨µ«ÊÇ»¹ÊÇÒªÌ§Æğ·ÅÏÂ£©
-
-ÓÎÏ·ÉèÖÃ£º
-°´ÏÂ9£¬Êó±êÖ¸Õë½«»áÏÔÊ¾³öÀ´
-°´ÏÂspace£¨¿Õ¸ñ£©£¬½«»áÔÚ´°¿ÚºÍÈ«ÆÁ¼äÇĞ»»
-°´ÏÂesc£¬ÍË³öÓÎÏ·
-
-Basic gameplay:
-Left button to fire normal bullets (just hold it still)
-Right click to fire a tracking bullet (just hold it still)
-Middle button (wheel) fires laser (long time to build up power, after each shot, need to lift finger and press again to build up power)
-
-Advanced play (cheating?):
-Press 1 to jump to the second half of the drop level.
-Press 2 to jump to enemy tracking level.
-Press 3 to jump to the normal flow of the boss level.
-Press 6 to challenge the real boss (trust me you can't beat it)
-Pressing 0 increases the speed of normal bullets and the laser becomes unaccumulated (but still has to be raised and lowered)
-
-Game settings:
-Press 9 and the mouse cursor will be displayed.
-Pressing space will toggle between window and full screen
-Press esc to exit the game.
+#### åŸºæœ¬ç©æ³•ï¼š
+##### å·¦é”®å‘å°„æ™®é€šå­å¼¹ï¼ˆæŒ‰ç€ä¸åŠ¨å³å¯ï¼‰
+##### å³é”®å‘å°„è¿½è¸ªå­å¼¹ï¼ˆæŒ‰ç€ä¸åŠ¨å³å¯ï¼‰
+##### ä¸­é”®ï¼ˆæ»šè½®ï¼‰å‘å°„æ¿€å…‰ï¼ˆè“„åŠ›æ—¶é—´ä¹…ï¼Œæ¯æ¬¡å‘å°„ä¹‹åï¼Œéœ€è¦æŠ¬èµ·æ‰‹æŒ‡é‡æ–°æŒ‰ä¸‹æ‰å¯é‡æ–°è“„åŠ›ï¼‰
+---
+#### é«˜çº§ç©æ³•ï¼ˆä½œå¼Šï¼Ÿï¼‰ï¼š
+##### æŒ‰ä¸‹1ï¼Œè·³è½¬è‡³æ‰è½å…³å¡ååŠæ®µ
+##### æŒ‰ä¸‹2ï¼Œè·³è½¬è‡³è¿½è¸ªæ•Œäººå…³å¡
+##### æŒ‰ä¸‹3ï¼Œè·³è½¬è‡³æ­£å¸¸æµç¨‹bosså…³å¡
+##### æŒ‰ä¸‹6ï¼ŒæŒ‘æˆ˜çœŸæ­£çš„BOSSï¼ˆç›¸ä¿¡æˆ‘ä½ æ‰“ä¸è¿‡çš„ï¼‰
+##### æŒ‰ä¸‹0ï¼Œæ™®é€šå­å¼¹å°„é€Ÿä¼šå¢åŠ ï¼Œæ¿€å…‰ä¹Ÿä¼šå˜å¾—ä¸ç”¨è“„åŠ›ï¼ˆä½†æ˜¯è¿˜æ˜¯è¦æŠ¬èµ·æ”¾ä¸‹ï¼‰
+---
+#### æ¸¸æˆè®¾ç½®ï¼š
+##### æŒ‰ä¸‹9ï¼Œé¼ æ ‡æŒ‡é’ˆå°†ä¼šæ˜¾ç¤ºå‡ºæ¥
+##### æŒ‰ä¸‹spaceï¼ˆç©ºæ ¼ï¼‰ï¼Œå°†ä¼šåœ¨çª—å£å’Œå…¨å±é—´åˆ‡æ¢
+##### æŒ‰ä¸‹escï¼Œé€€å‡ºæ¸¸æˆ
+---
+#### Basic gameplay:
+##### Left button to fire normal bullets (just hold it still)
+##### Right click to fire a tracking bullet (just hold it still)
+##### Middle button (wheel) fires laser (long time to build up power, after each shot, need to lift finger and press again to build up power)
+---
+#### Advanced play (cheating?):
+##### Press 1 to jump to the second half of the drop level.
+##### Press 2 to jump to enemy tracking level.
+##### Press 3 to jump to the normal flow of the boss level.
+##### Press 6 to challenge the real boss (trust me you can't beat it)
+##### Pressing 0 increases the speed of normal bullets and the laser becomes unaccumulated (but still has to be raised and lowered)
+---
+#### Game settings:
+##### Press 9 and the mouse cursor will be displayed.
+##### Pressing space will toggle between window and full screen
+##### Press esc to exit the game.
